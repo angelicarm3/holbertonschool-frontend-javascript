@@ -1,1 +1,0 @@
-# holbertonschool-frontend-javascript
